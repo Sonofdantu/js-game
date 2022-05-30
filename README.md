@@ -1,1 +1,3 @@
 # js-game
+
+First commit
